@@ -5,13 +5,6 @@ Welcome to my GRC Portfolio. I specialize in the non-coding aspects of cybersecu
 
 ---
 
-## 2-Year Roadmap
-- [x] Google Cybersecurity Professional Certificate
-- [ ] CompTIA Security+ (Target: Dec 2026)
-- [ ] ISO 27001 Internal Auditor Training (Target: 2027)
-
----
-
 ## GRC Case Study
 *Real-world applications of security frameworks and privacy laws.*
 
