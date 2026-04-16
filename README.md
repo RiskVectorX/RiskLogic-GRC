@@ -1,4 +1,4 @@
-# Sarthak Suman | Aspiring GRC Analyst
+# Sarthak Suman | GRC & Risk Analyst
 **BCA (Hons.) Student | Google Cybersecurity Certified**
 
 Welcome to my GRC Portfolio. I specialize in the non-coding aspects of cybersecurity, focusing on the alignment of technical security controls with business objectives and regulatory requirements.
@@ -45,3 +45,4 @@ Welcome to my GRC Portfolio. I specialize in the non-coding aspects of cybersecu
 ## Contact Information
 * **LinkedIn:** [Sarthak Suman](https://www.linkedin.com/in/sarthak-suman/)
 * **Email:** [Sarthak Suman](sumansarthak47@gmail.com)
+* **Portfolio:** [Sarthak Suman](https://sarthak-suman.vercel.app/)
